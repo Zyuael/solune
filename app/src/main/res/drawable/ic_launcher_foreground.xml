@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Mid-century motif: a terracotta sun setting behind an ink arch on a horizon line. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- sun -->
+    <path
+        android:fillColor="#C96A4B"
+        android:pathData="M60,39 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0 Z" />
+    <!-- arch -->
+    <path
+        android:fillColor="#121316"
+        android:pathData="M33,75 L33,54 A16,16 0 0 1 65,54 L65,75 Z" />
+    <!-- doorway -->
+    <path
+        android:fillColor="#F2EEE8"
+        android:pathData="M42,75 L42,63 A7,7 0 0 1 56,63 L56,75 Z" />
+    <!-- horizon -->
+    <path
+        android:strokeColor="#121316"
+        android:strokeWidth="2.4"
+        android:strokeLineCap="round"
+        android:pathData="M26,75 L82,75" />
+    <!-- rhythm dots -->
+    <path
+        android:fillColor="#121316"
+        android:fillAlpha="0.35"
+        android:pathData="M68.5,81 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z M74.5,81 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z M80.5,81 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0 Z" />
+</vector>

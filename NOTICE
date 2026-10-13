@@ -1,0 +1,17 @@
+Solune
+Copyright (C) 2026 ZYUAEL
+
+This program is free software: you can redistribute it and/or modify it under the terms of the
+GNU General Public License as published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+General Public License for more details. A copy is in the LICENSE file.
+
+Redistributions and modified versions must keep this notice. The name "Solune" and its logo
+identify the official app by ZYUAEL; forks should use a different name and icon.
+
+Third-party components: NewPipeExtractor (GPL-3.0); AndroidX Media3, Jetpack Compose, OkHttp,
+Coil (Apache-2.0). Lyrics provided by LRCLIB (lrclib.net).
+Solune is not affiliated with or endorsed by YouTube, Google or Spotify.
